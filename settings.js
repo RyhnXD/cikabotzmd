@@ -33,10 +33,10 @@ global.footer = 'karyl' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://chat.whatsapp.com/E8LJ85LRwfCFb92jev7Omn'
-global.mygc = 'https://chat.whatsapp.com/E8LJ85LRwfCFb92jev7Omn'
-global.myweb = 'https://chat.whatsapp.com/E8LJ85LRwfCFb92jev7Omn'
+global.youtube = 'https://chat.whatsapp.com/LpR3POR9ap16SUR6IuZAxb'
+global.ig = 'https://chat.whatsapp.com/LpR3POR9ap16SUR6IuZAxb'
+global.mygc = 'https://chat.whatsapp.com/LpR3POR9ap16SUR6IuZAxb'
+global.myweb = 'https://chat.whatsapp.com/LpR3POR9ap16SUR6IuZAxb'
 global.email = 'riychdwaynee@gmail.com'
 global.region = 'indonesia'
 
